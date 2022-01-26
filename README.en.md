@@ -4,3 +4,4 @@
 [简体中文](./README.en.md) | English
 
 **这是个人的每日算法练习。**
+**This is a personal dairly algorithm exercise。**
